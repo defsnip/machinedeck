@@ -1,4 +1,4 @@
-const CACHE_NAME = 'machine-deck-cache-v1';
+const CACHE_NAME = 'machine-deck-v1';
 const ASSETS = [
   './',
   './index.html', // Make sure your main file is named index.html
