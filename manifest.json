@@ -1,6 +1,6 @@
 {
   "name": "Machine Deck",
-  "short_name": "Fleet",
+  "short_name": "Machine Deck",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#09090b",
